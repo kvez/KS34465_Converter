@@ -14,9 +14,9 @@ DMM_34465A  →  KS34465_Converter  →  HP3458A_Analyzer
 
 | Lépés | Program | Szerep |
 |-------|---------|--------|
-| 1. Mérés | **DMM_34465A** | Idősorozat rögzítése KS34465 CSV formátumba |
+| 1. Mérés | **[DMM_34465A](https://github.com/kvez/DMM_34465A)** | Idősorozat rögzítése KS34465 CSV formátumba |
 | 2. Átalakítás | **KS34465_Converter** | CSV konvertálása az Analyzer formátumára |
-| 3. Elemzés | **HP3458A_Analyzer** | LPSD / Allan deviáció / drift / SFDR |
+| 3. Elemzés | **[HP3458A_Analyzer](https://github.com/kvez/HP3458A_Analyzer)** | LPSD / Allan deviáció / drift / SFDR |
 
 ## Bemeneti formátum (KS34465, pontosvessző elválasztó, vesszős tizedes)
 
